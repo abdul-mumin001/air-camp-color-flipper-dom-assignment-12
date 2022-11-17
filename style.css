@@ -1,0 +1,30 @@
+/** body */
+body {
+    background-color: #68d189;
+    padding: 20px;
+  }
+  
+  /** main */
+  .main-wrapper {
+    width: 300px;
+    margin: 40px auto;
+    text-align: center;
+  }
+  .main-wrapper p{
+    color: white;
+  }
+  
+  button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 110%;
+    border: solid 1px rgb(173, 170, 170);
+    color: rgb(68, 65, 65);
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    cursor: pointer;
+  }
