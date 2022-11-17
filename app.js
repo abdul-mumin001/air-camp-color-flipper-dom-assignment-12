@@ -4,7 +4,6 @@ const changeBackground = document.body;
 
 const rgbColor = document.getElementById("rgb-color");
 
-//* adding event listener and function to the color buttons
 
 // rgb button
 rgbColor.addEventListener("click", function () {
